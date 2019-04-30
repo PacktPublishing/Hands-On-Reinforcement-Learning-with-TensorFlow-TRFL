@@ -19,7 +19,7 @@ By the end, you will be quite familiar with the tool and will be ready to put yo
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is for ML and DL Engineers who have been working with TensorFlow and would now like to learn how to design and implement robust Reinforcement Learning algorithms in TRFL.
+To be an ML or DL Engineer who has been working with TensorFlow and would now like to learn how to design and implement robust Reinforcement Learning algorithms in TRFL.
 Experience with Reinforcement Learning and TensorFlow is assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
